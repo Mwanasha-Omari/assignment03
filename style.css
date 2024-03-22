@@ -1,0 +1,1082 @@
+#container{
+display: flex;
+justify-content: space-evenly;
+justify-content: space-between;
+justify-content: space-around;
+height: 85px;
+background-color: rgb(44, 70, 85);
+
+
+}
+#code {
+display: flex;
+gap: 70px;
+word-spacing: normal;
+color: rgb(159, 179, 172);
+padding-top: 40px;
+
+}
+#item button{
+color: rgb(244, 244, 247);
+background-color: rgb(84, 84, 190);
+border-radius: 10px;
+height: 50px;
+width: 200px;
+font-size: large;
+border-color: rgb(119, 119, 247);
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+
+}
+#logo{
+padding-top: 20px;
+
+}
+#item{
+padding-top: 15px;
+
+}
+#black span{
+color: rgb(219, 148, 16);
+font-family: "League Gothic", Impact, sans-serif;
+font-size: 60px;
+
+}
+#black p{
+    font-family: "League Gothic", Impact, sans-serif;
+font-size: 60px;
+font-weight: bold;
+color: white;
+
+}
+#black label{
+color: grey;
+    font-family: "League Gothic", Impact, sans-serif;
+   
+}
+#right button{
+height: 40px;
+width: 100px;
+background-color:transparent;
+color: rgb(120, 120, 185);
+border-color: rgb(192, 201, 228);
+border-radius: 10px;
+}
+#light button{
+height: 40px;
+width: 100px;
+background-color: rgb(114, 195, 201);
+border-radius: 10px;
+}
+#many{
+    display: flex;
+    gap: 30px;
+}
+#major{
+object-fit: cover;
+    display: flex;
+}
+#grey{
+    display: flex;
+}
+#grey img{
+height: 500px;
+width:250px ;
+object-fit: cover;
+
+
+}
+#cover img{
+height: 400px;
+width: 400px;
+object-fit: cover;
+padding-top: 300px;
+}
+#create{
+background-color: rgba(228, 154, 16, 0.836);
+height: 100px;
+width: 100px;
+border-radius: 50%;
+}
+#major{
+background-color: rgb(39, 63, 77); ;
+
+}
+#add{
+text-align: center;
+font-size: 20px;
+font-weight: bold;
+}
+#add span{
+color:  rgba(228, 154, 16, 0.836);
+font-weight: bold;
+}
+#say{
+    display: flex;
+    gap: 30px;
+    justify-content: space-around;
+
+}
+#say img{
+ display: flex;
+justify-content: center;
+height: 40px;
+width: 40px;
+border-radius: 50%;
+margin-right: 40px;
+
+
+}
+#say span{
+font-size: large;
+font-weight: bold;
+text-align: center;
+
+}
+#title p{
+font-weight: bold;
+font-family:"League Gothic", Impact, sans-serif ;
+font-size:30px ;
+}
+#title span{
+    color:  rgba(228, 154, 16, 0.836);
+    
+}
+#air button{
+height: 40px;
+width: 130px;
+background-color: rgb(116, 38, 189);
+border: none;
+border-radius: 5px;
+}
+#burn{
+display: flex;
+justify-content: space-between;
+justify-content: space-around;
+}
+#section p{
+font-family: "League Gothic", Impact, sans-serif ;
+font-weight: bold;
+font-size: 30px;
+}
+#section span{
+    color:  rgba(228, 154, 16, 0.836);
+} 
+#section{
+text-align: center;
+
+}
+#trial p{
+font-size: 18px;
+text-align: center;
+
+}
+#content{
+background-color: rgb(194, 245, 252);
+
+}
+#trial button{
+width: 200px;
+height: 30px;
+background-color: rgb(243, 154, 38);
+border: none;
+border-radius:5px ;
+}
+#start{
+display: flex;
+justify-content: space-between;
+justify-content: space-around;
+}
+#init{
+display: flex;
+gap: 50px;
+text-align: center;
+justify-content: space-evenly;
+
+}
+#back{
+display: flex;
+justify-content: space-evenly;
+justify-content: space-around;
+background-color: rgb(11, 49, 49);
+height: 360px;
+border-radius: 20px;
+
+}
+#write p{
+    font-family: "League Gothic", Impact, sans-serif ;
+    font-weight: bold;
+    font-size: 30px;
+text-align: center;
+color: white;
+}
+#write span{
+    font-family: "League Gothic", Impact, sans-serif ;
+    font-weight: bold;
+    font-size: 30px;
+text-align: center;
+color: rgba(228, 154, 16, 0.836); ;
+
+}
+#start p{
+    font-family: "League Gothic", Impact, sans-serif ;
+    font-weight: bold;
+    font-size: 30px;
+text-align: center;
+
+}
+#start span{
+    font-family: "League Gothic", Impact, sans-serif ;
+    font-weight: bold;
+    font-size: 30px;
+text-align: center;
+color: rgba(228, 154, 16, 0.836); ;
+
+}
+#start button{
+height: 35px;
+width: 100px;
+background-color: rgb(114, 24, 197);
+color: white;
+border-radius: 5px;
+border: none;
+
+}
+#blue span{
+color: rgb(195, 195, 224);
+
+}
+#orange span{
+
+color: orange;
+}
+#follow span{
+color: blue;
+
+}
+#write button{
+height: 40px;
+width: 150px;
+background-color: aqua;
+border-radius: 10px;
+border: none;
+margin-top: 50px;
+}
+#write label{
+color: white;
+
+}
+#inform{
+display: flex;
+justify-content: space-evenly;
+justify-content: space-around;
+gap: 50px;
+}
+#inform span{
+font-size: large;
+font-weight: bold;
+}
+#such input{
+height: 50px;
+width: 300px;
+border-radius: 10px;
+border-color: antiquewhite;
+background-color: transparent;
+
+}
+#wave{
+ background-color: rgb(3, 72, 82); 
+ border-top-right-radius: 20px;  
+ color: white;
+}
+
+#containall{
+background-color: white;
+margin-left: 50px;
+margin-right: 50px;
+margin-bottom: 50px;
+
+}
+#all{
+background-color: rgb(134, 217, 231);
+
+}
+#blue button{
+height: 30px;
+width: 100px;
+border-radius: 20px;
+background-color: transparent;
+border-color: aquamarine;
+color: aquamarine;
+
+}
+#orange button{
+    height: 30px;
+    width: 100px;
+    border-radius: 20px;
+    background-color: transparent;
+    border-color: aquamarine;
+color: aquamarine;
+
+    }
+    #follow button{
+        height: 30px;
+        width: 100px;
+        border-radius: 20px;
+        background-color: transparent;
+        border-color: aquamarine;
+        color: aquamarine;
+
+
+        }
+        #follow img{
+border-radius: 20px;
+width: 200px;
+height: 200px;
+object-fit: cover;
+        }
+        #blue img{
+            border-radius: 20px;
+width: 200px;
+height: 200px;
+object-fit: cover;
+justify-content: center;
+            
+        }
+        #orange img{
+            border-radius: 20px;
+            width: 200px;
+            height: 200px;
+            margin-bottom: 70px;
+            object-fit: cover;
+
+        }
+      
+
+
+            
+        
+        
+
+
+#container{
+display: flex;
+justify-content: space-evenly;
+justify-content: space-between;
+justify-content: space-around;
+height: 85px;
+background-color: rgb(44, 70, 85);
+
+
+}
+#code {
+display: flex;
+gap: 70px;
+word-spacing: normal;
+color: rgb(159, 179, 172);
+padding-top: 40px;
+
+}
+#item button{
+color: rgb(244, 244, 247);
+background-color: rgb(84, 84, 190);
+border-radius: 10px;
+height: 50px;
+width: 200px;
+font-size: large;
+border-color: rgb(119, 119, 247);
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+
+}
+#logo{
+padding-top: 20px;
+
+}
+#item{
+padding-top: 15px;
+
+}
+#black span{
+color: rgb(219, 148, 16);
+font-family: "League Gothic", Impact, sans-serif;
+font-size: 60px;
+
+}
+#black p{
+    font-family: "League Gothic", Impact, sans-serif;
+font-size: 60px;
+font-weight: bold;
+color: white;
+
+}
+#black label{
+color: grey;
+    font-family: "League Gothic", Impact, sans-serif;
+   
+}
+#right button{
+height: 40px;
+width: 100px;
+background-color:transparent;
+color: rgb(120, 120, 185);
+border-color: rgb(192, 201, 228);
+border-radius: 10px;
+}
+#light button{
+height: 40px;
+width: 100px;
+background-color: rgb(114, 195, 201);
+border-radius: 10px;
+}
+#many{
+    display: flex;
+    gap: 30px;
+}
+#major{
+object-fit: cover;
+    display: flex;
+}
+#grey{
+    display: flex;
+}
+#grey img{
+height: 500px;
+width:250px ;
+object-fit: cover;
+
+
+}
+#cover img{
+height: 400px;
+width: 400px;
+object-fit: cover;
+padding-top: 300px;
+}
+#create{
+background-color: rgba(228, 154, 16, 0.836);
+height: 100px;
+width: 100px;
+border-radius: 50%;
+}
+#major{
+background-color: rgb(39, 63, 77); ;
+
+}
+#add{
+text-align: center;
+font-size: 20px;
+font-weight: bold;
+}
+#add span{
+color:  rgba(228, 154, 16, 0.836);
+font-weight: bold;
+}
+#say{
+    display: flex;
+    gap: 30px;
+    justify-content: space-around;
+
+}
+#say img{
+ display: flex;
+justify-content: center;
+height: 40px;
+width: 40px;
+border-radius: 50%;
+margin-right: 40px;
+
+
+}
+#say span{
+font-size: large;
+font-weight: bold;
+text-align: center;
+
+}
+#title p{
+font-weight: bold;
+font-family:"League Gothic", Impact, sans-serif ;
+font-size:30px ;
+}
+#title span{
+    color:  rgba(228, 154, 16, 0.836);
+    
+}
+#air button{
+height: 40px;
+width: 130px;
+background-color: rgb(116, 38, 189);
+border: none;
+border-radius: 5px;
+}
+#burn{
+display: flex;
+justify-content: space-between;
+justify-content: space-around;
+}
+#section p{
+font-family: "League Gothic", Impact, sans-serif ;
+font-weight: bold;
+font-size: 30px;
+}
+#section span{
+    color:  rgba(228, 154, 16, 0.836);
+} 
+#section{
+text-align: center;
+
+}
+#trial p{
+font-size: 18px;
+text-align: center;
+
+}
+#content{
+background-color: rgb(194, 245, 252);
+
+}
+#trial button{
+width: 200px;
+height: 30px;
+background-color: rgb(243, 154, 38);
+border: none;
+border-radius:5px ;
+}
+#start{
+display: flex;
+justify-content: space-between;
+justify-content: space-around;
+}
+#init{
+display: flex;
+gap: 50px;
+text-align: center;
+justify-content: space-evenly;
+
+}
+#back{
+display: flex;
+justify-content: space-evenly;
+justify-content: space-around;
+background-color: rgb(11, 49, 49);
+height: 360px;
+border-radius: 20px;
+
+}
+#write p{
+    font-family: "League Gothic", Impact, sans-serif ;
+    font-weight: bold;
+    font-size: 30px;
+text-align: center;
+color: white;
+}
+#write span{
+    font-family: "League Gothic", Impact, sans-serif ;
+    font-weight: bold;
+    font-size: 30px;
+text-align: center;
+color: rgba(228, 154, 16, 0.836); ;
+
+}
+#start p{
+    font-family: "League Gothic", Impact, sans-serif ;
+    font-weight: bold;
+    font-size: 30px;
+text-align: center;
+
+}
+#start span{
+    font-family: "League Gothic", Impact, sans-serif ;
+    font-weight: bold;
+    font-size: 30px;
+text-align: center;
+color: rgba(228, 154, 16, 0.836); ;
+
+}
+#start button{
+height: 35px;
+width: 100px;
+background-color: rgb(114, 24, 197);
+color: white;
+border-radius: 5px;
+border: none;
+
+}
+#blue span{
+color: rgb(195, 195, 224);
+
+}
+#orange span{
+
+color: orange;
+}
+#follow span{
+color: blue;
+
+}
+#write button{
+height: 40px;
+width: 150px;
+background-color: aqua;
+border-radius: 10px;
+border: none;
+margin-top: 50px;
+}
+#write label{
+color: white;
+
+}
+#inform{
+display: flex;
+justify-content: space-evenly;
+justify-content: space-around;
+gap: 50px;
+}
+#inform span{
+font-size: large;
+font-weight: bold;
+}
+#such input{
+height: 50px;
+width: 300px;
+border-radius: 10px;
+border-color: antiquewhite;
+background-color: transparent;
+
+}
+#wave{
+ background-color: rgb(3, 72, 82); 
+ border-top-right-radius: 20px;  
+ color: white;
+}
+
+#containall{
+background-color: white;
+margin-left: 50px;
+margin-right: 50px;
+margin-bottom: 50px;
+
+}
+#all{
+background-color: rgb(134, 217, 231);
+
+}
+#blue button{
+height: 30px;
+width: 100px;
+border-radius: 20px;
+background-color: transparent;
+border-color: aquamarine;
+color: aquamarine;
+
+}
+#orange button{
+    height: 30px;
+    width: 100px;
+    border-radius: 20px;
+    background-color: transparent;
+    border-color: aquamarine;
+color: aquamarine;
+
+    }
+    #follow button{
+        height: 30px;
+        width: 100px;
+        border-radius: 20px;
+        background-color: transparent;
+        border-color: aquamarine;
+        color: aquamarine;
+
+
+        }
+        #follow img{
+border-radius: 20px;
+width: 200px;
+height: 200px;
+object-fit: cover;
+        }
+        #blue img{
+            border-radius: 20px;
+width: 200px;
+height: 200px;
+object-fit: cover;
+justify-content: center;
+            
+        }
+        #orange img{
+            border-radius: 20px;
+            width: 200px;
+            height: 200px;
+            margin-bottom: 70px;
+            object-fit: cover;
+
+        }
+      
+
+
+            
+        @media screen  and (max-width:1020px) and(min-width:20px){
+            
+
+        #container{
+            display: flex;
+            justify-content: space-evenly;
+            justify-content: space-between;
+            justify-content: space-around;
+            height: 85px;
+            background-color: rgb(44, 70, 85);
+            
+            
+            }
+            #code {
+            display: flex;
+            gap: 70px;
+            word-spacing: normal;
+            color: rgb(159, 179, 172);
+            padding-top: 40px;
+            
+            }
+            #item button{
+            color: rgb(244, 244, 247);
+            background-color: rgb(84, 84, 190);
+            border-radius: 10px;
+            height: 50px;
+            width: 200px;
+            font-size: large;
+            border-color: rgb(119, 119, 247);
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            
+            
+            }
+            #logo{
+            padding-top: 20px;
+            
+            }
+            #item{
+            padding-top: 15px;
+            
+            }
+            #black span{
+            color: rgb(219, 148, 16);
+            font-family: "League Gothic", Impact, sans-serif;
+            font-size: 60px;
+            
+            }
+            #black p{
+                font-family: "League Gothic", Impact, sans-serif;
+            font-size: 60px;
+            font-weight: bold;
+            color: white;
+            
+            }
+            #black label{
+            color: grey;
+                font-family: "League Gothic", Impact, sans-serif;
+               
+            }
+            #right button{
+            height: 40px;
+            width: 100px;
+            background-color:transparent;
+            color: rgb(120, 120, 185);
+            border-color: rgb(192, 201, 228);
+            border-radius: 10px;
+            }
+            #light button{
+            height: 40px;
+            width: 100px;
+            background-color: rgb(114, 195, 201);
+            border-radius: 10px;
+            }
+            #many{
+                display: flex;
+                gap: 30px;
+            }
+            #major{
+            object-fit: cover;
+                display: flex;
+            }
+            #grey{
+                display: flex;
+            }
+            #grey img{
+            height: 500px;
+            width:250px ;
+            object-fit: cover;
+            
+            
+            }
+            #cover img{
+            height: 400px;
+            width: 400px;
+            object-fit: cover;
+            padding-top: 300px;
+            }
+            #create{
+            background-color: rgba(228, 154, 16, 0.836);
+            height: 100px;
+            width: 100px;
+            border-radius: 50%;
+            }
+            #major{
+            background-color: rgb(39, 63, 77); ;
+            
+            }
+            #add{
+            text-align: center;
+            font-size: 20px;
+            font-weight: bold;
+            }
+            #add span{
+            color:  rgba(228, 154, 16, 0.836);
+            font-weight: bold;
+            }
+            #say{
+                display: flex;
+                gap: 30px;
+                justify-content: space-around;
+            
+            }
+            #say img{
+             display: flex;
+            justify-content: center;
+            height: 40px;
+            width: 40px;
+            border-radius: 50%;
+            margin-right: 40px;
+            
+            
+            }
+            #say span{
+            font-size: large;
+            font-weight: bold;
+            text-align: center;
+            
+            }
+            #title p{
+            font-weight: bold;
+            font-family:"League Gothic", Impact, sans-serif ;
+            font-size:30px ;
+            }
+            #title span{
+                color:  rgba(228, 154, 16, 0.836);
+                
+            }
+            #air button{
+            height: 40px;
+            width: 130px;
+            background-color: rgb(116, 38, 189);
+            border: none;
+            border-radius: 5px;
+            }
+            #burn{
+            display: flex;
+            justify-content: space-between;
+            justify-content: space-around;
+            }
+            #section p{
+            font-family: "League Gothic", Impact, sans-serif ;
+            font-weight: bold;
+            font-size: 30px;
+            }
+            #section span{
+                color:  rgba(228, 154, 16, 0.836);
+            } 
+            #section{
+            text-align: center;
+            
+            }
+            #trial p{
+            font-size: 18px;
+            text-align: center;
+            
+            }
+            #content{
+            background-color: rgb(194, 245, 252);
+            
+            }
+            #trial button{
+            width: 200px;
+            height: 30px;
+            background-color: rgb(243, 154, 38);
+            border: none;
+            border-radius:5px ;
+            }
+            #start{
+            display: flex;
+            justify-content: space-between;
+            justify-content: space-around;
+            }
+            #init{
+            display: flex;
+            gap: 50px;
+            text-align: center;
+            justify-content: space-evenly;
+            
+            }
+            #back{
+            display: flex;
+            justify-content: space-evenly;
+            justify-content: space-around;
+            background-color: rgb(11, 49, 49);
+            height: 360px;
+            border-radius: 20px;
+            
+            }
+            #write p{
+                font-family: "League Gothic", Impact, sans-serif ;
+                font-weight: bold;
+                font-size: 30px;
+            text-align: center;
+            color: white;
+            }
+            #write span{
+                font-family: "League Gothic", Impact, sans-serif ;
+                font-weight: bold;
+                font-size: 30px;
+            text-align: center;
+            color: rgba(228, 154, 16, 0.836); ;
+            
+            }
+            #start p{
+                font-family: "League Gothic", Impact, sans-serif ;
+                font-weight: bold;
+                font-size: 30px;
+            text-align: center;
+            
+            }
+            #start span{
+                font-family: "League Gothic", Impact, sans-serif ;
+                font-weight: bold;
+                font-size: 30px;
+            text-align: center;
+            color: rgba(228, 154, 16, 0.836); ;
+            
+            }
+            #start button{
+            height: 35px;
+            width: 100px;
+            background-color: rgb(114, 24, 197);
+            color: white;
+            border-radius: 5px;
+            border: none;
+            
+            }
+            #blue span{
+            color: rgb(195, 195, 224);
+            
+            }
+            #orange span{
+            
+            color: orange;
+            }
+            #follow span{
+            color: blue;
+            
+            }
+            #write button{
+            height: 40px;
+            width: 150px;
+            background-color: aqua;
+            border-radius: 10px;
+            border: none;
+            margin-top: 50px;
+            }
+            #write label{
+            color: white;
+            
+            }
+            #inform{
+            display: flex;
+            justify-content: space-evenly;
+            justify-content: space-around;
+            gap: 50px;
+            }
+            #inform span{
+            font-size: large;
+            font-weight: bold;
+            }
+            #such input{
+            height: 50px;
+            width: 300px;
+            border-radius: 10px;
+            border-color: antiquewhite;
+            background-color: transparent;
+            
+            }
+            #wave{
+             background-color: rgb(3, 72, 82); 
+             border-top-right-radius: 20px;  
+             color: white;
+            }
+            
+            #containall{
+            background-color: white;
+            margin-left: 50px;
+            margin-right: 50px;
+            margin-bottom: 50px;
+            
+            }
+            #all{
+            background-color: rgb(134, 217, 231);
+            
+            
+            }
+            #blue button{
+            height: 30px;
+            width: 100px;
+            border-radius: 20px;
+            background-color: transparent;
+            border-color: aquamarine;
+            color: aquamarine;
+            
+            }
+            #orange button{
+                height: 30px;
+                width: 100px;
+                border-radius: 20px;
+                background-color: transparent;
+                border-color: aquamarine;
+            color: aquamarine;
+            
+                }
+                #follow button{
+                    height: 30px;
+                    width: 100px;
+                    border-radius: 20px;
+                    background-color: transparent;
+                    border-color: aquamarine;
+                    color: aquamarine;
+            
+            
+                    }
+                    #follow img{
+            border-radius: 20px;
+            width: 200px;
+            height: 200px;
+            object-fit: cover;
+                    }
+                    #blue img{
+                        border-radius: 20px;
+            width: 200px;
+            height: 200px;
+            object-fit: cover;
+            justify-content: center;
+                        
+                    }
+                    #orange img{
+                        border-radius: 20px;
+                        width: 200px;
+                        height: 200px;
+                        margin-bottom: 70px;
+                        object-fit: cover;
+            
+                    }
+                  
+                }
+            
+                        
+                    
+                    
+            
